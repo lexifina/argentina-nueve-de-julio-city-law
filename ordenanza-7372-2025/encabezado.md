@@ -1,0 +1,13 @@
+Ordenanza Nº7372/2025
+Ordenanza Nº 7372/2025
+Nueve de Julio, 10/04/2025
+LOCALIZACIÓN Y HABILITACIÓN: SALÓN POLIDEPORTIVO CLUB ATLÉTICO SAN MARTIN
+VISTO:
+Las actuaciones obrantes en el Expediente Nº 4082-161/2024.
+CONSIDERANDO:
+Que a fojas 97 del expediente mencionado en el Visto de la presente, el Sr. Gonzalo Martin, solicito la habilitación del Polideportivo del Club Atlético San Martín, sito en la ciudad de 9 de Julio, Partida 29268 Circ. 15 Sec. B Cha 157 Frac 1 Parc 2, conforme Código Nº 939030 del Nomenclador de Actividades para la realización ocasional de eventos.
+Que en la reunión de la C.U.M.A. del día 10/12/2024 cuya acta consta a fojas 102, se ha resuelto afirmativamente aprobar 5 (cinco) eventos anuales teniendo en cuenta la capacidad ocupacional, medidas de seguridad e higiene, normativa estricta de Bomberos y normativa Municipal asi como tambien todos los requisitos que se requieran al momento de habilitar dicho evento.
+Que el Club Atlético deberá hacerse cargo de garantizar la limpieza de la zona en forma posterior a cada evento teniendo en cuenta 100 mts perimetrales, y deberá garantizar las medidas de seguridad de quienes asistan a los eventos. El permiso es única y exclusivamente para actividades nocturnas bailables tipo discoteca, debiendo renovar el presente permiso en forma anual sujeto a disposición Municipal.
+Que es atribución del Cuerpo Deliberativo dictar la reglamentación de todo lo atinente a la instalación y habilitaciones comerciales en el Distrito, en virtud de lo establecido en el Artículo 27 inc. 1) del Decreto Ley Nº 6769/58 (Ley Orgánica de las Municipalidades) que establece que “corresponde a la función deliberativa municipal, reglamentar: 1) La radicación, habilitación y funcionamiento de los establecimientos comerciales e industriales… en la medida que no se opongan a las normas que al respecto dicta la provincia y atribuyan competencia a organismo provinciales…”, al igual que las impositivas y la determinación de de los recursos y gastos de la Municipalidad (Artículo 29 del Decreto Ley Nº 6769/58). Que por su parte, el Departamento Ejecutivo Municipal tiene la potestad de otorgar autorizaciones administrativas para el funcionamiento de establecimientos comerciales (habilitaciones) en el marco de las Ordenanza Municipales (conforme Artículos 107, 108 y concordantes del Decreto Ley Nº 6769/58).
+Que en virtud de lo manifestado precedentemente y lo normado, corresponde dar intervención al Honorable Concejo Deliberante, para que en uso de sus atribuciones evalúe la posibilidad de otorgar la localización y reglamentar, en caso de considerarlo, la actividad.
+ORDENANZA
