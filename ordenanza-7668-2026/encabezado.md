@@ -1,0 +1,5 @@
+Ordenanza Nº7668/2026
+Ordenanza Nº 7668/2026
+Nueve de Julio, 24/09/2026
+VISTO: Las actuaciones obrantes en el expediente 4082-64/2022 Alc. 23. CONSIDERANDO: Que de conformidad al boleto de compraventa de fojas 04 del expediente referenciado en el Visto de la presente, resulta adjudicataria del lote identificado como Circunscripción XV, Sección C, Chacra 281a, Manzana 281an, Parcela 10 de 9 de Julio, el señor JESUS EZEQUIEL GUALDONI DNI 30.457.908 Que a fojas 22 consta informe de obra y el señor Secretario de Vivienda y Urbanismo a fojas 27 considera cumplido el cargo de construcción. Que a fojas 46 del expediente referido en el Visto, la Dirección General de Ingresos Públicos adjunta libre deuda de tributo en concepto de plan familia propietaria . Que a fojas 44 obra el informe social de los ocupantes de la vivienda. Que de conformidad al Artículo 54 y concordantes de la ley Orgánica de las Municipalidades corresponde al Honorable Concejo Deliberante autorizar la venta de bienes de la Municipalidad.
+ORDENANZA
