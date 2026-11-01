@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-nueve-de-julio",
+  "code": "AR-B-NUEVE-DE-JULIO",
+  "name": "Nueve de Julio",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-nueve-de-julio-city-law",
+  "build": "built: municipal ordinances (196 ordinances, 196 versions) from https://sibom.slyt.gba.gob.ar/cities/90",
+  "language": "es",
+  "sources": 1
+}
