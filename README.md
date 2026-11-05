@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-196 ordinances so far, in force from 21 January 2021 to 11 October 2026, each as published in the Boletín Oficial Municipal de Nueve de Julio, added in parts.
+210 ordinances so far, in force from 21 December 2017 to 11 October 2026, each as published in the Boletín Oficial Municipal de Nueve de Julio, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -209,6 +209,21 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-7669-2026/` | Ordenanza 7669/2026: OBJETO. Créase el “Programa Municipal de Prevención, Asistencia y Saneamiento del Sobreendeudamiento Familiar”, destinado a promover herram… | in force 11 October 2026 |
 | `ordenanza-7674-2026/` | Ordenanza 7674/2026: Condonase la deuda al contribuyente IGLESIA NUEVA APOSTOLICA SUD AMERICA, por Tasa Retributiva de Servicios Urbanos de los períodos 01/2023… | in force 11 October 2026 |
 
+| `ordenanza-5898-2017/` | Ordenanza 5898/2017: ARTICULO 1º: Créase la Zona SECTOR AGRUPAMIENTO INDUSTRIAL, conforme lo establecido por el Artículo 2º de la Ley Provincial Nº 13.744, y cuyos indicadores serán los siguientes: | original-publication baseline, 2017-12-21 |
+| `ordenanza-5904-2017/` | Ordenanza 5904/2017: Artículo 1º: OBJETO: La presente tiene por objeto un lote de terreno ubicado en ejido de esta ciudad, identificado catastralmente como: Circunscripción I, Sección B, Quinta 20, Manzana 20 a, Parcela 17 a, Subparcela 01, | original-publication baseline, 2017-12-21 |
+| `ordenanza-5905-2017/` | Ordenanza 5905/2017: ARTICULO 1º: Autorízase en favor de la adjudicataria señora LAURA EDITH BARRIONUEVO, D.N.I. Nº 31.530.717, en concubinato con el señor JORGE ARIEL ARCE, D.N.I. Nº 24.347.368, la escrituración de la parcela perteneciente | original-publication baseline, 2017-12-21 |
+| `ordenanza-5908-2017/` | Ordenanza 5908/2017: ARTICULO 1º:Impóngase el nombre de “Los Jacarandaes” a la plazoleta ubicada sobre la calle Dr.José Manuel Barbutti, entre las calles Libertad y Dr. Sampietro, identificada catastralmente como Circunscripción XII, Sección | original-publication baseline, 2017-12-21 |
+| `ordenanza-5912-2017/` | Ordenanza 5912/2017: ARTICULO 1º: Condónase la deuda a la contribuyente Sra. CONTRERAS, MARIA ROSA, D.N.I Nº 16.564.432, por los períodos 03/2010 hasta 12/2010 inclusive, 01/2011 hasta 12/2011 inclusive, 01/2012 hasta 12/2012 inclusive, 01/2 | original-publication baseline, 2017-12-21 |
+| `ordenanza-5920-2018/` | Ordenanza 5920/2018: ARTÍCULO 1º: El objeto de la presente modificación es el sector comprendido por Av. Antártida Argentina, Av. Urquiza, Ruta 65 y Av. Cardenal Pironio de la ciudad de 9 de Julio, quedando excluidas las zonas ratificadas po | original-publication baseline, 2018-02-24 |
+| `ordenanza-5924-2018/` | Ordenanza 5924/2018: ARTICULO 1º: La presente tiene por objeto el lote inmueble identificado catastralmente como Circunscripción V, Sección A, Manzana 8, Parcela 10 (*b) de la localidad de La Niña, Partido de 9 de Julio. | original-publication baseline, 2018-05-20 |
+| `ordenanza-5926-2018/` | Ordenanza 5926/2018: ARTICULO 1º: Condónase la deuda por tasa retributiva por servicios urbanos al contribuyente DIOCESIS DE 9 DE JULIO por los siguientes inmuebles, períodos y montos: | original-publication baseline, 2018-05-20 |
+| `ordenanza-5927-2018/` | Ordenanza 5927/2018: ARTICULO 2º: Prócedase a través del D.E. De la Municipalidad de 9 de Julio, a la colocación de la cartelera indicadora de la misma. | original-publication baseline, 2018-05-20 |
+| `ordenanza-5941-2018/` | Ordenanza 5941/2018: ARTICULO 1º: Ratifícase en todos sus términos el Acuerdo suscrito entre el Instituto Superior Experimental de Tecnología Alimentaria (ISETA) y la Municipalidad de 9 de Julio con fecha 02 de enero de 2018. | original-publication baseline, 2018-05-20 |
+| `ordenanza-5946-2018/` | Ordenanza 5946/2018: ARTICULO 1º: Ratifícase en todos sus términos el Convenio de Cobro de Tasas celebrado entre la señora MARTA AMELIA VADILLO y la MUNICIPALIDAD DE 9 DE JULIO, con fecha 23 de enero de 2018. | original-publication baseline, 2018-05-20 |
+| `ordenanza-5954-2018/` | Ordenanza 5954/2018: ARTICULO 1º: Regístrese la baja del patrimonio municipal de: - Impresora Laser Multifunción, modelo Laserjet PRO MFP M426DW F6W15A, número de serie BRBSJ99861, número de inventario municipal 3570268998. - Impresora Laser | original-publication baseline, 2018-05-20 |
+| `ordenanza-5962-2018/` | Ordenanza 5962/2018: ARTICULO 1º: Convalídese las extralimitaciones del presupuesto de gastos 2017 en las siguientes partidas, de acuerdo a lo establecido en el artículo nº 47 de la Ley Nº 14982 de la Provincia de Buenos Aires: | original-publication baseline, 2018-05-20 |
+| `ordenanza-5963-2018/` | Ordenanza 5963/2018: ARTICULO 1º: Condónase la deuda a la contribuyente Sra. LIDIA EDITH PERALTA D.N.I Nº 25.153.206, por los períodos 09/2010 a 12/2010 inclusive, 01/2011 hasta 12/2011 inclusive, 01/2012 hasta 12/2012 inclusive, 01/2013 has | original-publication baseline, 2018-05-20 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Nueve de Julio, <https://sibom.slyt.gba.gob.ar/cities/90>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -228,6 +243,8 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 - Every version of every ordinance is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`.
 - The letters and digits of every version equal those of the source page it was read from (read again with an independent HTML reader), so no word is lost or added.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
+
+The additional original-publication baselines name no first enacting law in the history. They preserve the citation printed by SIBOM. Later amendments are separate instruments; no consolidated history is inferred.
 
 ## Limits
 

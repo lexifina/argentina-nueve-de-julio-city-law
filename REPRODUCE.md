@@ -1,12 +1,13 @@
 # How this repository was made (Nueve de Julio)
 
-This file is written by the build on 2026-11-01, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Nueve de Julio | <https://sibom.slyt.gba.gob.ar/cities/90> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Nueve de Julio (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/90> | 2026-11-05 | Official municipal ordinances, reproduced with attribution as public acts of government. The source states no restriction on reuse. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -210,20 +211,34 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-7668-2026` | Ordenanza 7668/2026: Autorízase a la Señora Intendenta Municipal conjuntamente con la Escribanía General de Gobierno a extender la escritura traslativa de dominio del inmueble identificado catastralmente como: Circunscripción XV, Sección C,  | 1 | 2026-10-11 to 2026-10-11 |
 | `ordenanza-7669-2026` | Ordenanza 7669/2026: OBJETO. Créase el “Programa Municipal de Prevención, Asistencia y Saneamiento del Sobreendeudamiento Familiar”, destinado a promover herramientas de educación financiera y a encontrar soluciones administrativas, concilia | 1 | 2026-10-11 to 2026-10-11 |
 | `ordenanza-7674-2026` | Ordenanza 7674/2026: Condonase la deuda al contribuyente IGLESIA NUEVA APOSTOLICA SUD AMERICA, por Tasa Retributiva de Servicios Urbanos de los períodos 01/2023 hasta 12/2025 de la partida municipal Nº 7070 por suma que asciende a pesos tres | 1 | 2026-10-11 to 2026-10-11 |
+| `ordenanza-5898-2017` | Ordenanza 5898/2017: ARTICULO 1º: Créase la Zona SECTOR AGRUPAMIENTO INDUSTRIAL, conforme lo establecido por el Artículo 2º de la Ley Provincial Nº 13.744, y cuyos indicadores serán los siguientes: | 1 | 2017-12-21 to 2017-12-21 |
+| `ordenanza-5904-2017` | Ordenanza 5904/2017: Artículo 1º: OBJETO: La presente tiene por objeto un lote de terreno ubicado en ejido de esta ciudad, identificado catastralmente como: Circunscripción I, Sección B, Quinta 20, Manzana 20 a, Parcela 17 a, Subparcela 01,  | 1 | 2017-12-21 to 2017-12-21 |
+| `ordenanza-5905-2017` | Ordenanza 5905/2017: ARTICULO 1º: Autorízase en favor de la adjudicataria señora LAURA EDITH BARRIONUEVO, D.N.I. Nº 31.530.717, en concubinato con el señor JORGE ARIEL ARCE, D.N.I. Nº 24.347.368, la escrituración de la parcela perteneciente  | 1 | 2017-12-21 to 2017-12-21 |
+| `ordenanza-5908-2017` | Ordenanza 5908/2017: ARTICULO 1º:Impóngase el nombre de “Los Jacarandaes” a la plazoleta ubicada sobre la calle Dr.José Manuel Barbutti, entre las calles Libertad y Dr. Sampietro, identificada catastralmente como Circunscripción XII, Sección | 1 | 2017-12-21 to 2017-12-21 |
+| `ordenanza-5912-2017` | Ordenanza 5912/2017: ARTICULO 1º: Condónase la deuda a la contribuyente Sra. CONTRERAS, MARIA ROSA, D.N.I Nº 16.564.432, por los períodos 03/2010 hasta 12/2010 inclusive, 01/2011 hasta 12/2011 inclusive, 01/2012 hasta 12/2012 inclusive, 01/2 | 1 | 2017-12-21 to 2017-12-21 |
+| `ordenanza-5920-2018` | Ordenanza 5920/2018: ARTÍCULO 1º: El objeto de la presente modificación es el sector comprendido por Av. Antártida Argentina, Av. Urquiza, Ruta 65 y Av. Cardenal Pironio de la ciudad de 9 de Julio, quedando excluidas las zonas ratificadas po | 1 | 2018-02-24 to 2018-02-24 |
+| `ordenanza-5924-2018` | Ordenanza 5924/2018: ARTICULO 1º: La presente tiene por objeto el lote inmueble identificado catastralmente como Circunscripción V, Sección A, Manzana 8, Parcela 10 (*b) de la localidad de La Niña, Partido de 9 de Julio. | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5926-2018` | Ordenanza 5926/2018: ARTICULO 1º: Condónase la deuda por tasa retributiva por servicios urbanos al contribuyente DIOCESIS DE 9 DE JULIO por los siguientes inmuebles, períodos y montos: | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5927-2018` | Ordenanza 5927/2018: ARTICULO 2º: Prócedase a través del D.E. De la Municipalidad de 9 de Julio, a la colocación de la cartelera indicadora de la misma. | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5941-2018` | Ordenanza 5941/2018: ARTICULO 1º: Ratifícase en todos sus términos el Acuerdo suscrito entre el Instituto Superior Experimental de Tecnología Alimentaria (ISETA) y la Municipalidad de 9 de Julio con fecha 02 de enero de 2018. | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5946-2018` | Ordenanza 5946/2018: ARTICULO 1º: Ratifícase en todos sus términos el Convenio de Cobro de Tasas celebrado entre la señora MARTA AMELIA VADILLO y la MUNICIPALIDAD DE 9 DE JULIO, con fecha 23 de enero de 2018. | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5954-2018` | Ordenanza 5954/2018: ARTICULO 1º: Regístrese la baja del patrimonio municipal de: - Impresora Laser Multifunción, modelo Laserjet PRO MFP M426DW F6W15A, número de serie BRBSJ99861, número de inventario municipal 3570268998. - Impresora Laser | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5962-2018` | Ordenanza 5962/2018: ARTICULO 1º: Convalídese las extralimitaciones del presupuesto de gastos 2017 en las siguientes partidas, de acuerdo a lo establecido en el artículo nº 47 de la Ley Nº 14982 de la Provincia de Buenos Aires: | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-5963-2018` | Ordenanza 5963/2018: ARTICULO 1º: Condónase la deuda a la contribuyente Sra. LIDIA EDITH PERALTA D.N.I Nº 25.153.206, por los períodos 09/2010 a 12/2010 inclusive, 01/2011 hasta 12/2011 inclusive, 01/2012 hasta 12/2012 inclusive, 01/2013 has | 1 | 2018-05-20 to 2018-05-20 |
 
-The build made 196 commits:
+The build made 210 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 196 | first version of an act |
+| 210 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 196 laws in the record.
-- 392 tags.
+- 210 laws in the record.
+- 406 tags.
 
 ## Dates
 
@@ -235,13 +250,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6868aba1d8dcb6481e626051941efe6b2bee62961f2277e88f4d8822886f73fe` (912038 bytes).
+- Corpus: sha256 `84ff54c5b3a956185a7993bf88253d3af074baa7a447e3397afda7a0fcba2c94` (972817 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-196 versions of 196 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -252,6 +267,10 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- New acts are original-publication baselines: first_law is null. Source citation years are preserved. Later amending ordinances remain separate instruments; no consolidated historical wording is inferred.
+- In-force is the source commencement clause, otherwise the ninth day after the source bulletin publication under the existing municipal default rule. Retrieval day is never substituted for a stated source date.
+- Every law character, including punctuation, is compared with the independent DOM text after Unicode NFC and whitespace normalisation. Image content is recorded separately.
+- HTML tables retain the source row and column relationships as Markdown tables; every cell and monetary total is independently checked. Acts incorporating missing annex texts are held.
 
 ## What AI did and did not do
 
@@ -263,3 +282,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote extraction and validation code and reviewed source metadata; no model wrote or altered law text.

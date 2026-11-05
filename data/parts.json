@@ -215,6 +215,25 @@
     "ordenanza-7674-2026"
    ],
    "sha256": "3db58e7345f618630e36c49bf2555d1b420b458ad2879319e61e5ad76b45b39d"
+  },
+  "41-depth-q232-v2.json": {
+   "acts": [
+    "ordenanza-5898-2017",
+    "ordenanza-5904-2017",
+    "ordenanza-5905-2017",
+    "ordenanza-5908-2017",
+    "ordenanza-5912-2017",
+    "ordenanza-5920-2018",
+    "ordenanza-5924-2018",
+    "ordenanza-5926-2018",
+    "ordenanza-5927-2018",
+    "ordenanza-5941-2018",
+    "ordenanza-5946-2018",
+    "ordenanza-5954-2018",
+    "ordenanza-5962-2018",
+    "ordenanza-5963-2018"
+   ],
+   "sha256": "a06e3cdeb6f79847f1b12c904b8a8a7eff48a44cb61043d19d85bd31d4641ee7"
   }
  },
  "schema": 1

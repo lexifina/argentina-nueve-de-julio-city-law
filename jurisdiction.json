@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-nueve-de-julio-city-law",
-  "build": "built: municipal ordinances (196 ordinances, 196 versions) from https://sibom.slyt.gba.gob.ar/cities/90",
+  "build": "built: municipal ordinances (210 ordinances, 210 versions), each as published; amendments are not consolidated",
   "language": "es",
   "sources": 1
 }
